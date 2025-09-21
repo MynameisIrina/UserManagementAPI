@@ -1,0 +1,35 @@
+# Build results
+bin/
+obj/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.userprefs
+
+# Visual Studio working folder
+.vs/
+
+# Rider and JetBrains IDEs
+.idea/
+
+# VS Code settings
+.vscode/
+
+# Local secrets
+secrets.json
+
+# Logs
+*.log
+logs/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Others
+*.dbmdl
+*.pfx
+*.publishsettings
